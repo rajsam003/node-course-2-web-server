@@ -1,0 +1,9 @@
+TO Pull files from git:  
+
+>>> git clone <URL>
+
+to change and commit:
+
+>>> git add .
+>>> git commit -m "Testing"
+>>> git push
